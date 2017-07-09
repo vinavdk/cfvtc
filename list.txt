@@ -1,0 +1,17 @@
+﻿[Bạch kim]|AK-47 Bạch Kim|AWM Bạch Kim|M4A1-S Bạch Kim
+[Nyan Cat]|AK47 Nyan-Cat|AWM Nyan-Cat|M4A1 Nyan-Cat
+[Hyper Beast]|AK47-S Hyper Beast|AWM-S Hyper Beast|M4A1 S Hyper Beast|Ghost Blade Hyper Beast
+[Canabis]|AK47 Canabis|AWM Canabis|M4A1 Canabis
+[Asiimov]|AK47 Asiimov|AWM Asiimov
+[Razer]|AWM Razer|Desert Eagle Razer
+[Rainbow]|M4A1-Transformer RainBow|Kukri-Beast RainBow
+[Ares]|NanoHook Ares|Steyr-TMP Ares
+[Vàng 24k]|9A91 Gold Scope|AUGA1_A_UltimateGold|Shovel Born Beast Gold|M4A1 Born Beast Gold|Barrett Born Beast Gold|Barrett Born Beast Gold 2|D.E Born Beast Gold|M4A1 Rose Gold
+[Vũ khí độc]|AK47 MG Transformer|AK47 Rose Royal|AWM Transformer|AWM Transformer (fixed)|AWM M Beast|M4A1 Infernal Dragon|M4A1 Predator Commando|9A91 Gold Scope|9A91 Infernal Dragon|D.E Royal Dragon Slience|BrokenKukri-Beast|INK Hook|Nokia 1280|Sex Toy
+[CFQQ]|AUGA1_A_UltimateGold|M4A1 sSilencer PrismBeast|Boom kim cương|Búa Tạ|Deserteagle a blossoms|Devil Hunter Sword|NanoHook Ares|M14EBR-Taurus Doll|TRG-21 Aries|IAS Gemini|XuanYuan Sword
+[VIP CFQQ]|AK47-Knife Born Beast|M4A1-S PrismBeast|M4A1 S Beast|Knuckle Infernal Dragon|Shovel Born Beast
+[SonWokong]|AK47 A SonWukong|M4A1 S SonWukong
+[VIP 3 màu]|AWM Infernal Cold Ice|AK47 Beast ColdIce|AK47 Beast Green|AK47 Beast Purple|AWM Infernal Green|AWM Infernal Purple|D.E Born Beast ColdIce|D.E Born Beast Green|D.E Born Beast Purple|M4A1 Transformer ColdIce|M4A1 Transformer Green|M4A1 Transformer Purple
+[Born Beast]|AK47-Knife Born Beast|Shovel Born Beast|Shovel Born Beast Gold|Knife Born Beast|Kurki Born Beast|M4A1-Rose Beast|M4A1 Born Beast Gold|Barrett Born Beast Gold|Barrett Born Beast Gold 2|D.E Born Beast Gold
+[M4A1 Roses]|M4A1-Rose Beast|M4A1-Rose Trans|M4A1 Rose Gold
+[Khác]|M4A1 Gỗ|Nỏ thần ái tình|Gậy thông đít|M4A1 Transformer Noble Red|M4A1-Transformer Blaze|Anaconda Ghetto|Gà nhựa|KACChainSAW UltimateGoldsmith|M200CheyTac Chaos dragon|Dual MP7 Pink|AK-47 KFC|AK47-S-Golden Bear|Barrett Born Beast Slive|BIZON PP19-Legend Dragon|AWM-fire-water|Thompson-Slive|Hammer Xmas|SerbuSuperShorty
